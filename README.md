@@ -1,2 +1,2 @@
 # fake-news
-Fighting fake newses and desinformation in web using modern tools
+Fighting fake news and desinformation in web using modern tools
